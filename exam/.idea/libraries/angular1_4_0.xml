@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="angular1.4.0" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/Desktop/WebUI/AngularJS/angular-1.4.0" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/WebUI/AngularJS/angular-1.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
